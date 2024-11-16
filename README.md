@@ -12,7 +12,7 @@
 <img src="https://github.com/pionxzh/Get-Twitter-Icons-Back/assets/9910706/3fca5769-15d9-4317-ad88-e07cfdc747c6" alt="Twitter Icon" width="200">
 
 <br /><br />
-<align>This script replaces the X icon with that one image of elon trying to make an X on [Twitter](https://twitter.com/).</align>
+<align>This script replaces the X icon with that one image of elon trying to make an X. (give me a bit to figure out how to get it to work cuz rn nothing is updated)</align>
 <br />
 
 <img src="https://github.com/pionxzh/Get-Twitter-Icons-Back/assets/9910706/d9375c17-d61a-4b27-8136-ada06b3d6414" alt="Feature Preview" width="600px">
