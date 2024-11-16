@@ -1,8 +1,8 @@
-<h1 align="center">Get Twitter Icons Back</h1>
+<h1 align="center">Get Correct X Icon</h1>
 
 <div align="center">
 
-## Say NO to 𝕏
+## idk wtf im doing honestly
 
 [![GreasyFork][GreasyFork-image]][GreasyFork-url]
 
@@ -12,7 +12,7 @@
 <img src="https://github.com/pionxzh/Get-Twitter-Icons-Back/assets/9910706/3fca5769-15d9-4317-ad88-e07cfdc747c6" alt="Twitter Icon" width="200">
 
 <br /><br />
-<align>This script brings back the old good <b>blue bird</b> icon on [Twitter](https://twitter.com/).</align>
+<align>This script replaces the X icon with that one image of elon trying to make an X on [Twitter](https://twitter.com/).</align>
 <br />
 
 <img src="https://github.com/pionxzh/Get-Twitter-Icons-Back/assets/9910706/d9375c17-d61a-4b27-8136-ada06b3d6414" alt="Feature Preview" width="600px">
@@ -45,8 +45,8 @@
 
 ## Features
 
-- Replace **all** 𝕏 icon with the Twitter Blue Bird icon
+- Replace **all** 𝕏 icon with the correct X icon.
 - Replace home icon with the Twitter BirdHouse icon
-- Restore favicon
+- Replace favicon
 - Restore `meta` information
 - Restore title `/ Twitter`
